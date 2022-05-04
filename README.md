@@ -1,3 +1,3 @@
-# C++学习笔记
+# CPP-Learning-Notes
 
-学习C++面经及笔记
+C++学习笔记
